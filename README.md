@@ -1,12 +1,14 @@
 # **Quick Links**
 
-> ## [RPP2 Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
-> ## [RPP2 Classroom Link](https://zoom.us/my/rppdsi.jrs)
-> ## [RPP2 LEARN Link](https://learn-2.galvanize.com/cohorts/2432) 
-> 
-> ## [RPP3 Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
-> ## [RPP3 Classroom Link](https://zoom.us/j/4164223231) 
-> ## [RPP3 LEARN Link](https://learn-2.galvanize.com/cohorts/2679) 
+## RPP2:
+> ### - [Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
+> ### - [Classroom Link](https://zoom.us/my/rppdsi.jrs)
+> ### - [LEARN Link](https://learn-2.galvanize.com/cohorts/2432)
+
+## RPP3:
+> ### - [Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
+> ### - [Classroom Link](https://zoom.us/j/4164223231) 
+> ### - [LEARN Link](https://learn-2.galvanize.com/cohorts/2679) 
 
 ______________
 
