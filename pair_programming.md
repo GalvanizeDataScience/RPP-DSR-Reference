@@ -1,7 +1,7 @@
 # Pair Programming
 
 * Create pairs for any paired assignment - Choose one person to be the “scheduler”
-* Refer to your [Cohort Hub](#quick-links) *Important Docs* Tab for pairs google sheet (this sheet is student facing)
+* Refer to your [Cohort Hub](README.md#quick-links) *Important Docs* Tab for pairs google sheet (this sheet is student facing)
 
 ### Example of simple code for random list of students, which can be used to choose pairs, groups of size k < n, and order of presentations: 
 

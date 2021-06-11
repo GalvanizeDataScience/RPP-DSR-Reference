@@ -6,7 +6,7 @@
 - Open LEARN modules, assessments, and assignments for the day
 - Check and update cohort solutions repo
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
-- Check to make sure previous class recording has been uploaded to the cohort spreadsheet. [Instructions on linking the recording in Cohort Spreadheet Calendar](##Post-Lecture-Recording-In-Cohort-Spreadsheet-Calendar-After-it-Processes)
+- Check to make sure previous class recording has been uploaded to the cohort spreadsheet. [Instructions on linking the recording in Cohort Spreadheet Calendar](assignments_sols.md#Post-Lecture-Recording-In-Cohort-Spreadsheet-Calendar-After-it-Processes)
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
 		> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
@@ -22,10 +22,10 @@
 
 ## Weekly Tasks:
 > Done Saturdays and [Career Services](#Career-Services-Days) Days
-- [Assign pair programming](#Pair-Programming) groups and assign a “scheduler” 2 weeks out 
-- Check to see if your [office hours](##DSR-Coverage-Calendars) are correct for the following 2 weeks
+- [Assign pair programming](pair_programming.md) groups and assign a “scheduler” 2 weeks out 
+- Check to see if your [office hours](calendars.md#DSR-Coverage-Calendars) are correct for the following 2 weeks
 - Open the needed LEARN modules for the upcoming week
-- Check next week’s schedule ([spreadsheet](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0) & [google calendar](##Cohort-Google-Calendars)) following items for accuracy:
+- Check next week’s schedule ([spreadsheet](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0) & [google calendar](calendars.md#Cohort-Google-Calendars)) following items for accuracy:
 	- (spreadsheet calendar should be most up to date)
 	- Check lecture, retro, assessment, case-study, capstones, break dates
 	- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
