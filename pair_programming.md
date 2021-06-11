@@ -13,7 +13,6 @@ RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST'
 # todo: add RPP3 students for convenience
 
 def shuffle(students):
-
     np.random.shuffle(students)
     return students
 
