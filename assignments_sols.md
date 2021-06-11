@@ -10,7 +10,7 @@
 
 ### After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
 
-> A one-class grace has bee the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
+> A one-class grace has been the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
 
 > [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
@@ -35,7 +35,7 @@
 
 > [RPP2 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
 
-> [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-rpp2)
+> [RPP3 Solutions Repo Link](https://github.com/GalvanizeDataScience/solutions-RPP3)
 
 
 ## JUST ONE TIME, get access to gSchool Learn
