@@ -7,9 +7,18 @@
 
 ``` python
 import numpy as np
+
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT', 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
 
-np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+# todo: add RPP3 students for convenience
+
+def shuffle(students):
+
+    np.random.shuffle(students)
+    return students
+
+shuffle(RPP2_students)
+# shuffle(RPP3_students)
 ```
 	
 **Challenges**  
