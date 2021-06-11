@@ -9,8 +9,7 @@
 import numpy as np
 
 RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT', 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
-
-# todo: add RPP3 students for convenience
+RPP3_students = ['Amy_Williams_ET', 'Aronica_Yang_ET', 'Artur_Musin_ET', 'Mike_Bernardo_ET', 'Gary_Simmons_CT', 'Jay_Kwon_PT', 'Jennifer_Kaufman_MT', 'Jordan_Hicks_ET', 'Kevin_Ruggles_PT', 'Matthew_Edrich_MT', 'Rohan_Bareja_ET', 'Sophia_Six_MT', 'Tri_Le_PT']
 
 def shuffle(students):
     np.random.shuffle(students)

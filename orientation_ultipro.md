@@ -16,4 +16,4 @@
 9. Use My Timesheet button for change requests
 10. Deal with some weird time consuming ultipro thing 
 
-[* clock in/out + timesheet changes video](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
+> [* clock in/out + timesheet changes video](https://drive.google.com/file/d/1YSCi5f5xv8xA5YE6Mao7llonSldUH8J8/view?usp=sharing)
