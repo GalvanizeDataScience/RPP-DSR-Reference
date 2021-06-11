@@ -2,35 +2,36 @@
 
 ## **RPP2:**
 
-> ### - [Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
-> ### - [Classroom Link](https://zoom.us/my/rppdsi.jrs)
-> ### - [LEARN Link](https://learn-2.galvanize.com/cohorts/2432)
+-  [Main Hub](https://docs.google.com/spreadsheets/d/1zKjOJaTR9sQPTJTx0CW0xDahaO7IezT92HvThWh82Gk/edit#gid=231386871)
+-  [Classroom Link](https://zoom.us/my/rppdsi.jrs)
+-  [LEARN Link](https://learn-2.galvanize.com/cohorts/2432)
 
 ## **RPP3:**
-> ### - [Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
-> ### - [Classroom Link](https://zoom.us/j/4164223231)
-> ### - [LEARN Link](https://learn-2.galvanize.com/cohorts/2679)
+- [Main Hub](https://docs.google.com/spreadsheets/d/1IaD-8F5I1AIN4wzXJIDOzI6LsZiR6gl3UTq4b-px9_M/edit#gid=231386871)
+- [Classroom Link](https://zoom.us/j/4164223231)
+- [LEARN Link](https://learn-2.galvanize.com/cohorts/2679)
 
-## **Tuesday Team Meetings:**
-> [Asana Link](https://app.asana.com/0/home/1199688949945059)
+### **Tuesday Team Meetings:**
+- [Asana Link](https://app.asana.com/0/home/1199688949945059)
 
 ______________
 
 # **Table of Contents for this Repo**
 
-> ## [Daily & Weekly Tasks](tasks.md#Daily--Weekly-Tasks)
-> > ### [Lecture Days](tasks.md#Lecture-Days)
-> > ### [Assessment Days](tasks.md#Assessment-Days)
-> > ### [Case Study Days](tasks.md#Case-Study-Days)
-> > ### [Capstone Days](tasks.md#Capstone-Days)
-> > ### [Career Services Days](tasks.md#Career-Services-Days)
-> ## [Pair Programming](pair_programming.md)
-> ## [Calendars](calendars.md)
-> ## [Assignments & Solutions](assignments_sols.md)
-> ## [Attendance](attendance.md)
-> ## [Help Desk](helpdesk_faq.md)  
-> ## [Common Fixes](helpdesk_faq.md#Common-Fixes)
-> ## [Orientation & Ultipro Stuff](orientation_ultipro.md)
+- ### [Daily & Weekly Tasks](tasks.md#Daily--Weekly-Tasks)
+    - [Lecture Days](tasks.md#Lecture-Days)
+    - [Assessment Days](tasks.md#Assessment-Days)
+    - [Case Study Days](tasks.md#Case-Study-Days)
+    - [Capstone Days](tasks.md#Capstone-Days)
+    - [Career Services Days](tasks.md#Career-Services-Days)
+
+- ### [Pair Programming](pair_programming.md)
+- ### [Calendars](calendars.md)
+- ### [Assignments & Solutions](assignments_sols.md)
+- ### [Attendance](attendance.md)
+- ### [Help Desk](helpdesk_faq.md)  
+- ### [Common Fixes](helpdesk_faq.md#Common-Fixes)
+- ### [Orientation & Ultipro Stuff](orientation_ultipro.md)
 
 ______________
 
