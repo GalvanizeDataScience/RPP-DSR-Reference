@@ -63,7 +63,7 @@ ______________
 
 ### Add Solutions to Cohort's Solutions Repo
 
-> [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)
+> [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)  
 > ^All the solution directories are here^
 
 - [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
@@ -156,7 +156,7 @@ git push
 3. In the top left corner you will find a link to the Assessment Full Grading Tracking Doc 
 4. Update the Full Grading Tracking Doc first and then in the assessments tab
 
-[* grading assessments how to video]()
+[* grading assessments how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
@@ -206,10 +206,13 @@ ______________
 
 ## Stand-ups
 > [RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
+
 Check:
 1. Well defined MVP
 2. Cohesive, narrow Story
 3. GitHub repo + README + Slide Deck started
+
+<!-- This checklist feels weird - revisit -->
 
 - Elevator Pitch (30 second engaging overview) 
 - Follow-up on meeting goals from last stand-up
