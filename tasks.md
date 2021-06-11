@@ -20,6 +20,8 @@
 	- bold async assignment(s)
 	- italicize paired assignment(s)
 
+[Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
+
 ## Weekly Tasks:
 > Done Saturdays and [Career Services](#Career-Services-Days) Days
 - [Assign pair programming](pair_programming.md) groups and assign a “scheduler” 2 weeks out 

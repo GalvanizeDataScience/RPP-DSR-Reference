@@ -96,6 +96,3 @@ In Learn:
 5. Double check that the changes are working in the student facing Learn block.
 
 [* editing Learn (fix solutions link example)](https://drive.google.com/file/d/1n-1kg-IupQXr9SPQNdlOMcEk-H0r0mGz/view?usp=sharing)
-
-
-[Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
