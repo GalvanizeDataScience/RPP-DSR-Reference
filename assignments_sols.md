@@ -12,14 +12,14 @@
 
 > A one-class grace has been the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
 
-> [* checking and updating assignment submissions how to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
+> [* checking and updating assignment submissions how-to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 
 ## Assignment Due Dates:
 - In general, the due date is a week from the corresponding lecture.  
 - Async assignments are due a week from that week's Saturday lecture.
 - Paired assignments should be italicized
 
-> [* updating due dates how to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
+> [* updating due dates how-to video](https://drive.google.com/file/d/16eXyF5IjBbbd8CxRdG5m22Qt7EvyXzwe/view?usp=sharing)
 
 ## How to open the LEARN Modules for Upcoming Week
 1. **SET UP** tab
@@ -28,7 +28,7 @@
 4. click grey eyeball to right of <block_name>  
 > Note: In an open block, the eyeball will disappear, but hovering over the <block_name> will reveal a green eyeball that can be clicked on to close the block.
 
-> [* open learn modules for upcoming week how to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
+> [* open learn modules for upcoming week how-to video](https://drive.google.com/file/d/16Stfq6gfBHQslPfDbP9OzCEp8A8c6BRr/view?usp=sharing)
 
 
 > [GitHub gSchool](https://github.com/gSchool)  *(You can find the cohort LEARN links at the top of this Repo or in the cohort hub)

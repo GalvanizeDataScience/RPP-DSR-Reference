@@ -27,4 +27,4 @@ shuffle(RPP2_students)
 	- pairing based on time zones or schedules (alternatives to random pairings) 
 	- due date extensions with prior approval
 
-> [* updating pairs how to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)
+> [* updating pairs how-to video](https://drive.google.com/file/d/1_2FXEfwQswyXi7L2QyT6RjbIrMmwbIkf/view?usp=sharing)

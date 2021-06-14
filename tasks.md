@@ -63,7 +63,7 @@ ______________
 5. *For RPP2, add **GalvanizeDataScience/21-02-ds-rpp**
 6. *For RPP2, Confirm: Add GalvanizeDataScience/21-02-ds-rpp
 
-> [* granting access to assignment repo how to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
+> [* granting access to assignment repo how-to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
 ### Add Solutions to Cohort's Solutions Repo
 
@@ -96,7 +96,7 @@ git commit -m 'add perceptrons solutions'
 git push
 ```
 
-> [* add solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
+> [* add solutions to cohort's solutions repo how-to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
 ## Post Lecture Recording In Cohort Spreadsheet Calendar After it Processes
 
@@ -123,7 +123,7 @@ ______________
 5. click dropdown arrow to left of **DSI Assessment #**
 6. click second eyeball
 
-> [* opening assessments in Learn how to video](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
+> [* opening assessments in Learn how-to video](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
 ## Timing Assessment 
 - 60 minute strict time limit
@@ -147,7 +147,7 @@ git commit -m 'add assessment-0 solutions'
 git push
 ```
 
-[* add assessment solutions to cohort's solutions repo how to video](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
+> [* add assessment solutions to cohort's solutions repo how-to video](https://drive.google.com/file/d/1c5u2M1G9GcI6baEgayPEBUhRXYw9thLg/view?usp=sharing)
 
 
 ## Grading Assessments
@@ -160,14 +160,14 @@ git push
 3. In the top left corner you will find a link to the Assessment Full Grading Tracking Doc 
 4. Update the Full Grading Tracking Doc first and then in the assessments tab
 
-[* grading assessments how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
+> [* grading assessments how-to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 Assessment statistics will populate after inputs are complete, which can be used to add statistics to Learn:
 
 ### Adding Assessment Statistics & Solutions to Learn
 [RPP2 Learn Assessment Solution Block](https://learn-2.galvanize.com/cohorts/2432/blocks/1045/content_files/01-assessment-solutions/01-solutions.md)
 
-[* editing learn to add assessment statistics & solutions link how to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
+> [* editing learn to add assessment statistics & solutions link how-to video](https://drive.google.com/file/d/1dNWeRkPHVlmTwg8TEfPE3YWnp4Hytu1U/view?usp=sharing)
 
 ______________
 
@@ -265,4 +265,4 @@ ______________
 	4. click sync arrows OR 3 vertical dots to right (choose update branch) of <block_name>  
 	5. Double check that the changes are working in the student facing Learn block.
 
-> [* add Zoom lecture recording to Learn how to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
+> [* add Zoom lecture recording to Learn how-to video](https://drive.google.com/file/d/1HHMIrfLhJuhUm20fqOLfy-5EEF-cjxKJ/view?usp=sharing)
