@@ -14,6 +14,8 @@
 	### **OR**
 	- 2. Contact the PL to reach out
 
+<br />
+
 - *Check "non-lecture day" links below for additional instructions
 
 - **Send a slack message out at the end of class on assignments (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
@@ -32,17 +34,17 @@
 	- Check lecture, retro, assessment, case-study, capstones, break dates
 	- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
 
-	[Lecture Days](#Lecture-Days)  
+[Lecture Days](#Lecture-Days)  
 
-	[Assessment Days](#Assessment-Days) 
+[Assessment Days](#Assessment-Days) 
 
-	[Case Study Days](#Case-Study-Days)  
+[Case Study Days](#Case-Study-Days)  
 
-	[Capstone Days](#Capstone-Days) 
+[Capstone Days](#Capstone-Days) 
 
-	[Retro Days](#Retro-Days)
-	
-	[Career Services Days](#Career-Services-Days)  
+[Retro Days](#Retro-Days)
+
+[Career Services Days](#Career-Services-Days)  
 
 ______________
 
@@ -101,9 +103,9 @@ git push
 Instructions for Listing Lecture recordings:
 1. Locate recording in Zoom (Zoom login available in HUB: Important Docs tab)
 2. Rename lecture recording
-> - edit "RPT DSI staff's Personal Meeting Room" to reflect cohort number and lecture title (e.g. RPP3 Graph Searching Lecture)
-> - edit "Recording 1" to same title (e.g. RPP3 Graph Searching Lecture)
-> - If there are 2 recordings for the day, label the recordings separately
+	> - edit "RPT DSI staff's Personal Meeting Room" to reflect cohort number and lecture title (e.g. RPP3 Graph Searching Lecture)
+	> - edit "Recording 1" to same title (e.g. RPP3 Graph Searching Lecture)
+	> - If there are 2 recordings for the day, label the recordings separately
 3. Link lecture recording in Cohort Spreadsheet Calendar
 
 ______________
@@ -175,11 +177,16 @@ ______________
 
 ```python
 import numpy as np
-RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT',
-			'Sean_PST?', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 
-			'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
 
-np.random.choice(RPP2_students, replace=False, size=len(RPP2_students))
+RPP2_students = ['Becky_MDT', 'Bahar_PST', 'Andrew_EST', 'Mekdi_PST', 'Tony_PST', 'Robert_CT', 'Sean_PST', 'Nick_PST', 'Reza_CT', 'Bobby_AZ', 'Di_PST', 'Gary_EST', 'Matthew_EST', 'Shaheer_AZ', 'Marwah_PST']
+RPP3_students = ['Amy_Williams_ET', 'Aronica_Yang_ET', 'Artur_Musin_ET', 'Mike_Bernardo_ET', 'Gary_Simmons_CT', 'Jay_Kwon_PT', 'Jennifer_Kaufman_MT', 'Jordan_Hicks_ET', 'Kevin_Ruggles_PT', 'Matthew_Edrich_MT', 'Rohan_Bareja_ET', 'Sophia_Six_MT', 'Tri_Le_PT']
+
+def shuffle(students):
+    np.random.shuffle(students)
+    return students
+
+shuffle(RPP2_students)
+# shuffle(RPP3_students)
 ```
 
 ## Assign breakout rooms 
