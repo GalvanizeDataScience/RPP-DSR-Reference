@@ -2,9 +2,6 @@
 
 ## Every class day: 
 
-#### If there are **more than 1** DSR available for class:
-> To make it is easier on the instructor to know who is most active and ready to own "host" duties, DSRs will decide on 1 person to be "Lead DSR" for the class. Once you decide who will be lead, label yourself as `YOUR NAME [Lead DSR]` and keep your camera on for the lecture. (If you are the only DSR present, make sure your camera is on for more engagement.)
-
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
 - Remember to RECORD lectures
 - Open LEARN modules, assessments, and assignments for the day
@@ -53,6 +50,9 @@
 ______________
 
 # Lecture Days
+
+#### If there are **more than 1** DSR available for class:
+> To make it is easier on the instructor to know who is most active and ready to own "host" duties, DSRs will decide on 1 person to be "Lead DSR" for the class. Once you decide who will be lead, label yourself as `YOUR NAME [Lead DSR]` and keep your camera on for the lecture. (If you are the only DSR present, make sure your camera is on for more engagement.)
 
 ## Record Lecture
 > All the sticky notes & alarms in the world aren't as effective as multiple people checking that the lectures is being recorded. Let the cohort know you appreciate their help.
