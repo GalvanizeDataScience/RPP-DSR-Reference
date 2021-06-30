@@ -1,6 +1,10 @@
 # Daily & Weekly Tasks 
 
-## Every class day:
+## Every class day: 
+
+#### If there are **more than 1** DSR available for class:
+> To make it is easier on the instructor to know who is most active and ready to own "host" duties, DSRs will decide on 1 person to be "Lead DSR" for the class. Once you decide who will be lead, label yourself as `YOUR NAME [Lead DSR]` and keep your camera on for the lecture. (If you are the only DSR present, make sure your camera is on for more engagement.)
+
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
 - Remember to RECORD lectures
 - Open LEARN modules, assessments, and assignments for the day
@@ -121,7 +125,7 @@ ______________
 3. **Assessments** block
 4. **DSI Assessment #** click first eyeball
 5. click dropdown arrow to left of **DSI Assessment #**
-6. click second eyeball
+6. **click second eyeball**
 
 > [* opening assessments in Learn how-to video](https://drive.google.com/file/d/1L_zHyMqH56RJAw6YmKtpJfbVEJH8JeJc/view?usp=sharing)
 
