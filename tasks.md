@@ -3,6 +3,7 @@
 ## Every class day: 
 ### Lead DSR for-the-day responsibilities
 
+- Lead DSRs need to keep their cameras on and be ready to take over host privaleges in Zoom
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
 - Remember to RECORD lectures & upload it to the spreadsheet after class OR the following day
 - Open LEARN modules, assessments, and assignments for the day
