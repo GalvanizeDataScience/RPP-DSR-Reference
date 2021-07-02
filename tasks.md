@@ -1,9 +1,10 @@
 # Daily & Weekly Tasks 
 
 ## Every class day: 
+### Lead DSR for-the-day responsibilities
 
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
-- Remember to RECORD lectures
+- Remember to RECORD lectures & upload it to the spreadsheet after class OR the following day
 - Open LEARN modules, assessments, and assignments for the day
 - Check and update cohort solutions repo
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
@@ -110,7 +111,7 @@ Instructions for Listing Lecture recordings:
 	> - edit "RPT DSI staff's Personal Meeting Room" to reflect cohort number and lecture title (e.g. RPP3 Graph Searching Lecture)
 	> - edit "Recording 1" to same title (e.g. RPP3 Graph Searching Lecture)
 	> - If there are 2 recordings for the day, label the recordings separately
-3. Link lecture recording in Cohort Spreadsheet Calendar
+3. Link lecture recording in Cohort Spreadsheet Calendar at the end of the day or the following day
 
 ______________
 
@@ -157,6 +158,8 @@ git push
 ## Grading Assessments
 - ### In LEARN  
 > - You can find the cohort LEARN links at the top of this Repo or in the cohort hub
+> - Split the grading amongst the two dedicated DSRs for the cohort
+> - Try to complete the Assessment grading and post scores in LEARN within 48 hours
 
 - ### In Hub (2 places to input grades)
 1. You can find the cohort HUB links at the top of this Repo 
