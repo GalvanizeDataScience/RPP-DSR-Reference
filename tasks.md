@@ -6,10 +6,10 @@
 - Lead DSRs need to keep their cameras on and be ready to take over host privileges in Zoom
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
 - Remember to RECORD lectures & upload it to the spreadsheet after class OR the following day
+- Check to make sure previous class recording has been uploaded to the cohort spreadsheet. [Instructions on linking the recording in Cohort Spreadheet Calendar](assignments_sols.md#Post-Lecture-Recording-In-Cohort-Spreadsheet-Calendar-After-it-Processes)
 - Open LEARN modules, assessments, and assignments for the day
 - Check and update cohort solutions repo
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
-- Check to make sure previous class recording has been uploaded to the cohort spreadsheet. [Instructions on linking the recording in Cohort Spreadheet Calendar](assignments_sols.md#Post-Lecture-Recording-In-Cohort-Spreadsheet-Calendar-After-it-Processes)
 - Check to see if your [office hours](calendars.md#DSR-Coverage-Calendars) are correct for the following 2 weeks
 - **Send a slack message out at the end of class on assignments (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
 	- bold async assignment(s)
