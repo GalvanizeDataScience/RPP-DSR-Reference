@@ -3,7 +3,7 @@
 ## Every class day: 
 ### Lead DSR for-the-day responsibilities
 
-- Lead DSRs need to keep their cameras on and be ready to take over host privaleges in Zoom
+- Lead DSRs need to keep their cameras on and be ready to take over host privileges in Zoom
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
 - Remember to RECORD lectures & upload it to the spreadsheet after class OR the following day
 - Open LEARN modules, assessments, and assignments for the day
@@ -11,6 +11,10 @@
 - Check to see if an assessment grading is needed - grade and message the PL when the HUB spreadsheet has been updated
 - Check to make sure previous class recording has been uploaded to the cohort spreadsheet. [Instructions on linking the recording in Cohort Spreadheet Calendar](assignments_sols.md#Post-Lecture-Recording-In-Cohort-Spreadsheet-Calendar-After-it-Processes)
 - Check to see if your [office hours](calendars.md#DSR-Coverage-Calendars) are correct for the following 2 weeks
+- **Send a slack message out at the end of class on assignments (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
+	- bold async assignment(s)
+	- italicize paired assignment(s)
+
 - Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
 	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
 		> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
@@ -22,9 +26,7 @@
 
 - *Check "non-lecture day" links below for additional instructions
 
-- **Send a slack message out at the end of class on assignments (including async), assessments, and Capstone proposal due dates coming up the following week (include dates)
-	- bold async assignment(s)
-	- italicize paired assignment(s)
+
 
 [Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 
