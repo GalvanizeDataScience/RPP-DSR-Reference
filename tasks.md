@@ -221,7 +221,7 @@ ______________
 ## Manually Assign breakout rooms 
 
 ## Stand-ups
-> [RPP2 Stand-ups Sheet](https://docs.google.com/spreadsheets/d/1lztQRmiV1DQrzRyrgY0Lc_VqVFRYh7hXf0kuqDLs66k/edit#gid=0) 
+> [Stand-up Template Sheet](https://docs.google.com/spreadsheets/d/14BQMkfAs-fv682QpMLW2PIFqFlltxYsjCYUvIfS4l8o/) 
 
 Check:
 1. Well defined MVP
