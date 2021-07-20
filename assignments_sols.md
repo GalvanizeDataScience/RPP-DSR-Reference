@@ -2,15 +2,34 @@
 
 ## Assignment Submissions
 
-### Checking Assignment Submissions in LEARN
+**The below procedure should be completed once per week.** However, twice per cohort DSRs will run through **ALL** previous assignment submissions. (Feel free to split the load between both DSRs)
+- First, one/two weeks before solo week
+    - PL will send individual lists to students based on their completion statuses to catch up during solo week
+- Second, the Tuesday after solo week
+
+### Access Assignment Submissions in LEARN
 1. **UNIT PROGRESS** tab
 2. **<block_name>** use down arrow
 3. <Assignment_name> use down arrow   
 4. <Assignment_Submission> small circle indicates 'submitted'
 
-### After checking submissions in LEARN, update Assignment Submission Sheet in HUB 
+### Update Assignment Status in HUB
+1. Access your cohort's [main HUB](/RPP-DSR-Reference#quick-links) and choose the "Assignment Submissions" tab.
+2. Look at the last SIX Learn assignments submissions that have passed their due date (This should equal out to about 3 weeks back) and update the spreadsheet with "Submitted" or "Not submitted."
+	 - Example: Today is 6/22. Flask & Text Classification assignments are due today. I will look at the submissions for those and the 4 previous assignments (clustering, LDA, Image Processing, and CNNs) and update the spreadsheet.
+3. Check that the due dates for the assignments are correct on Row 2. Please rearrange if the order of assignment sue dates are incorrect.
+4. Update the B1 red cell with your initials, date, and time you've checked the assignments
 
-> A one-class grace has been the norm. For example, if the assignment is due on Tuesday, checking for that assignment submission + updating the google sheet on Thursday worked well. At the discretion of the instructor/PL, students may ask for an extension to the due date.
+## Incomplete Assignments
+
+If a student has not submitted an assignment please complete ONE of the following:
+1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
+    > - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
+    > - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
+### **OR**
+2. Contact the PL to reach out
+
+<br />
 
 > [* checking and updating assignment submissions how-to video](https://drive.google.com/file/d/1BvwxMJU055kYyfC1eC52urwPriOdBGa9/view?usp=sharing)
 

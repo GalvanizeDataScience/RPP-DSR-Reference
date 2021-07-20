@@ -1,7 +1,7 @@
 # Daily & Weekly Tasks 
 
 ## Every class day: 
-### Lead DSR for-the-day responsibilities
+### Lead DSR for-the-day responsibilities:
 
 - Lead DSRs need to keep their cameras on and be ready to take over host privileges in Zoom
 - Take attendance (*If the student is not in class, reach out to PL or the student directly)
@@ -15,29 +15,25 @@
 	- bold async assignment(s)
 	- italicize paired assignment(s)
 
-- Check assignments due today and check late submissions from the previous week. Update assignment submission HUB. If a student has not submitted an assignment please complete ONE of the following:
-	- 1. Message the student and the PL asking why the student has not turned in an assignment. Use the following message:
-		> - “Hi NAME! I hope you are doing well. I was checking assignment submissions and I saw that you have not turned in NAME OF ASSIGNMENT. Did you forget to submit the assignment in LEARN, or are you needing more time to work on this?”
-		> - If the student needs more time, give them to next class to complete and leave a note in the submissions tab as a comment so the PL or next DSR will know that you've spoken to them about the submission
-	### **OR**
-	- 2. Contact the PL to reach out
-
-<br />
 
 - *Check "non-lecture day" links below for additional instructions
-
-
 
 [Announcement Example Image](https://drive.google.com/file/d/1LzQ-3ANuL5Tuwv6pitsJpISPrPRVKRWg/view?usp=sharing)
 
 ## Weekly Tasks:
-> Completed by the Lead DSR on Saturdays and [Career Services](#Career-Services-Days) Days
+
+### Tuesdays:
+- [Check assignment submissions](/assignments_sols.md#assignment-submissions)
+
+### Saturdays and [Career Services Days](#Career-Services-Days)
 - [Assign pair programming](pair_programming.md) groups and assign a “scheduler” 2 weeks out 
 - Open the needed LEARN modules for the upcoming week
 - Check next week’s schedule ([spreadsheet](https://docs.google.com/spreadsheets/d/1L5IDfOIK6u2oWkt0Io-SYhtJlluVLCJbnWn0E-N_pqs/edit#gid=0) & [google calendar](calendars.md#Cohort-Google-Calendars)) following items for accuracy:
 	- (spreadsheet calendar should be most up to date)
 	- Check lecture, retro, assessment, case-study, capstones, break dates
 	- Check that all recordings have been uploaded to spreadsheet (update if they have not been uploaded)
+
+---
 
 [Lecture Days](#Lecture-Days)  
 
@@ -51,7 +47,7 @@
 
 [Career Services Days](#Career-Services-Days)  
 
-______________
+<br />
 
 # Lecture Days
 
@@ -73,16 +69,17 @@ ______________
 
 > [* granting access to assignment repo how-to video](https://drive.google.com/file/d/1UgR1OuQ_9dy9LSDXtgmXyxRhnAFqVEhH/view?usp=sharing)
 
-### Add Solutions to Cohort's Solutions Repo
+---
+
+## Add Solutions to Cohort's Solutions Repo
 
 > [Galvanize Main Solutions Repo](https://github.com/GalvanizeDataScience/solutions)  
 > ^All the solution directories are here^
 
 - [RPP2 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
 - [RPP3 Solutions Repo](https://github.com/GalvanizeDataScience/solutions-rpp2)
----
 
-## RPP2 Example: 
+### RPP2 Example: 
 
 **ONLY DO THIS PART THE FIRST TIME YOU ADD SOLUTIONS:**
 ```bash
@@ -106,6 +103,8 @@ git push
 
 > [* add solutions to cohort's solutions repo how-to video](https://drive.google.com/file/d/1-bMnSAy1uYL60b3aFw4e72U7_M1dByAN/view?usp=sharing)
 
+---
+
 ## Post Lecture Recording In Cohort Spreadsheet Calendar After it Processes
 
 Instructions for Listing Lecture recordings:
@@ -115,8 +114,6 @@ Instructions for Listing Lecture recordings:
 	> - edit "Recording 1" to same title (e.g. RPP3 Graph Searching Lecture)
 	> - If there are 2 recordings for the day, label the recordings separately
 3. Link lecture recording in Cohort Spreadsheet Calendar at the end of the day or the following day
-
-______________
 
 # Assessment Days 
 
